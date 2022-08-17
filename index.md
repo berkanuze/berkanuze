@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<h1>Hello World</h1>
-<p> Hosted </p>
+<h1>Homepage of Berkan Uze</h1>
+<p>  </p>
 </body>
 </html> 
